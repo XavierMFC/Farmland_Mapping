@@ -37,7 +37,7 @@ Post-processing is crucial, with the following key points to consider:
 
 Through my experiments and comparisons, I found that using multispectral imagery for land parcel mapping is a highly effective approach, even outperforming ultra-high-resolution drone imagery. There are two key aspects to consider: first, ensuring boundary representation in network design, and second, applying post-processing for regularization.
 
-# 7. Result
+# 7. Result Example
 
 ![satellite result ](./readme/image52.gif)
 
