@@ -57,4 +57,4 @@ Through my experiments and comparisons, I found that using multispectral imagery
 
 # 8. Finally
 
-This repository contains fragmented code from a large project and hasn't been specifically organized. If anyone is interested in using high-resolution multispectral imagery to map large-scale land parcels, feel free to contact me to collaborate.
+This repository contains fragmented code from a large project and hasn't been specifically organized. If anyone is interested in using high-resolution multispectral imagery to map large-scale land parcels, feel free to contact me to collaborate.(Of course its free !!!)
