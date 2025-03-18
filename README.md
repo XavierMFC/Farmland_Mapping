@@ -14,7 +14,6 @@ The method was proposed by:  [feevos/resuneta: mxnet source code for the resunet
 
 ![Multi-task label](./readme/label.jpg)
 
-
 # 3. The Network
 
 A network that combines multi-task learning and SegFormer.
@@ -39,6 +38,21 @@ Post-processing is crucial, with the following key points to consider:
 Through my experiments and comparisons, I found that using multispectral imagery for land parcel mapping is a highly effective approach, even outperforming ultra-high-resolution drone imagery. There are two key aspects to consider: first, ensuring boundary representation in network design, and second, applying post-processing for regularization.
 
 # 7. Result
+
+![satellite result ](./readme/image52.gif)
+
+![satellite result ](./readme/image53.gif)
+
+
+
+![satellite result ](./readme/multi-task-fusion.jpg)
+
+![satellite result ](./readme/satellite_1.jpg)
+
+![satellite result ](./readme/post-processing.jpg)
+
+
+
 
 
 # 8. Finally
